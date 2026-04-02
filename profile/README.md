@@ -2,17 +2,17 @@
 
 **Literacy for Kids** is a collection of open-source curricula designed for children ages 8–12.
 
-The project helps children understand the systems that shape modern life — topics that are often missing from traditional education but essential for navigating the modern world.
+The project teaches foundational literacies that help children understand the systems shaping modern life — topics that are often overlooked in traditional education, but essential for navigating the world thoughtfully, confidently, and responsibly.
 
 ---
 
 ## 🎯 What We Teach
 
-- **Decision Making** — how to think clearly and evaluate choices
-- **Technology** — how computers and digital systems work
-- **Information** — how to find, read, and evaluate sources
-- **Money** — how financial systems affect everyday life
-- **Governance** — how societies are organized and how citizens participate
+- **Decision Literacy** — how to think clearly, evaluate choices, and understand consequences
+- **Computer Literacy** — how computers and digital systems work
+- **Media Literacy** — how to find, interpret, and evaluate information
+- **Financial Literacy** — how money and financial systems affect everyday life
+- **Civic Literacy** — how societies are organized and how citizens participate in communities
 
 ---
 
@@ -32,24 +32,25 @@ Each curriculum is short, discussion-driven, and designed for parents, educators
 
 ## 🌐 Hub Website
 
-Visit the **[Literacy for Kids hub site](https://literacy-for-kids.github.io/literacy_for_kids/)** for an introduction to the framework and links to all curricula.
+Visit the **[Literacy for Kids hub site](https://literacy-for-kids.github.io/literacy_for_kids/)** for an introduction to the project and links to all curricula.
 
 ---
 
 ## 💡 Project Philosophy
 
-We focus on **foundational literacies** rather than traditional academic subjects. Each curriculum helps children build mental models of how the world actually works — encouraging:
+We focus on **foundational literacies** rather than traditional academic subjects. These curricula are designed to help children build practical mental models of how the world works, encouraging:
 
 - Critical thinking
-- Understanding systems
+- Systems understanding
 - Curiosity and discussion
+- Thoughtful participation in everyday life
 
-The goal is not to give children all the answers, but to equip them with the frameworks to ask better questions.
+The goal is not to give children all the answers, but to equip them with the tools and frameworks to ask better questions.
 
 ---
 
-## 🤝 Open Source
+## 🤝 Contributing
 
 All curricula are **free to use, open source, and adaptable**.
 
-We welcome educators, parents, and contributors to use, adapt, and improve the materials. Whether you're adding a lesson, translating content, or suggesting improvements — your contributions help more kids learn.
+We welcome parents, educators, and contributors to use, adapt, and improve the materials. Whether you're suggesting an improvement, adding a lesson, fixing an error, or translating content, your contributions help more kids learn.
