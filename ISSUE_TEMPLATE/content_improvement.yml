@@ -1,0 +1,44 @@
+name: Content improvement
+description: Suggest an improvement to lesson content — wording, accuracy, activities, or clarity.
+labels: ["content"]
+body:
+  - type: dropdown
+    id: curriculum
+    attributes:
+      label: Which curriculum?
+      options:
+        - Decision Literacy
+        - Computer Literacy
+        - Media Literacy
+        - Financial Literacy
+        - Civic Literacy
+        - Emotional & Social Literacy
+        - Legal Literacy
+        - Health Systems Literacy
+        - Hub site
+    validations:
+      required: true
+
+  - type: input
+    id: section
+    attributes:
+      label: Which week or section?
+      placeholder: "e.g. Week 5, Glossary, Introduction"
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is the issue?
+      description: What's unclear, inaccurate, or missing?
+    validations:
+      required: true
+
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested fix
+      description: Optional — paste suggested replacement text or describe what would help.
+    validations:
+      required: false

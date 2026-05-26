@@ -1,0 +1,40 @@
+name: New curriculum idea
+description: Propose an entirely new curriculum topic for the project.
+labels: ["proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        New curriculum topics require significant planning and scoping before any writing begins. Please fill this out before starting work — we want to make sure the topic fits the project's framework.
+
+  - type: input
+    id: topic
+    attributes:
+      label: Proposed topic
+      placeholder: "e.g. Environmental Systems Literacy"
+    validations:
+      required: true
+
+  - type: textarea
+    id: fit
+    attributes:
+      label: Why does this fit the project's scope?
+      description: The project focuses on practical literacies that help kids understand systems they already encounter. Explain why this topic belongs here.
+    validations:
+      required: true
+
+  - type: input
+    id: age_range
+    attributes:
+      label: Target age range
+      placeholder: "e.g. 8–12"
+    validations:
+      required: true
+
+  - type: textarea
+    id: prior_art
+    attributes:
+      label: Existing resources or prior art
+      description: Optional — links to related curricula, frameworks, or materials that could inform this topic.
+    validations:
+      required: false
