@@ -28,21 +28,21 @@ Each curriculum is discussion-driven and designed for parents, educators, and ho
 
 | | Curriculum | Live Site | Description |
 |---|---|---|---|
-| 🧠 | [Decision Literacy for Kids](https://github.com/literacy-for-kids/decision_literacy_for_kids) | [🌐 Site](https://decision.literacy-for-kids.com) | Think clearly, evaluate choices, understand consequences |
-| 💻 | [Computer Literacy for Kids](https://github.com/literacy-for-kids/computer_literacy_for_kids) | [🌐 Site](https://computer.literacy-for-kids.com) | How computers work and how to use technology responsibly |
-| 📰 | [Media Literacy for Kids](https://github.com/literacy-for-kids/media_literacy_for_kids) | [🌐 Site](https://media.literacy-for-kids.com) | How information spreads and how to evaluate sources critically |
-| 💰 | [Financial Literacy for Kids](https://github.com/literacy-for-kids/financial_literacy_for_kids) | [🌐 Site](https://financial.literacy-for-kids.com) | How money works and how financial decisions shape the future |
-| 🏛️ | [Civic Literacy for Kids](https://github.com/literacy-for-kids/civic_literacy_for_kids) | [🌐 Site](https://civic.literacy-for-kids.com) | How societies organize and how citizens shape communities |
-| 🧩 | [Emotional & Social Literacy for Kids](https://github.com/literacy-for-kids/emotional_and_social_literacy_for_kids) | [🌐 Site](https://emotional.literacy-for-kids.com) | Emotions as data, social systems as networks |
-| ⚖️ | [Legal Literacy for Kids](https://github.com/literacy-for-kids/legal_literacy_for_kids) | [🌐 Site](https://legal.literacy-for-kids.com) | Rules, contracts, and how legal systems actually work |
-| 🌍 | [Environmental Systems Literacy for Kids](https://github.com/literacy-for-kids/Environmental_system_literacy_for_kids) | [🌐 Site](https://environmental.literacy-for-kids.com) | Earth systems and where human infrastructure fits into them |
-| 🩺 | [Health Systems Literacy for Kids](https://github.com/literacy-for-kids/health_literacy_for_kids) | [🌐 Site](https://health.literacy-for-kids.com) | The human body as a biological system worth understanding |
+| 🧠 | [Decision Literacy for Kids](https://github.com/literacy-for-kids/decision_literacy_for_kids) | [🌐 Site](https://decision.literacy-for-kids.com/) | Think clearly, evaluate choices, understand consequences |
+| 💻 | [Computer Literacy for Kids](https://github.com/literacy-for-kids/computer_literacy_for_kids) | [🌐 Site](https://computer.literacy-for-kids.com/) | How computers work and how to use technology responsibly |
+| 📰 | [Media Literacy for Kids](https://github.com/literacy-for-kids/media_literacy_for_kids) | [🌐 Site](https://media.literacy-for-kids.com/) | How information spreads and how to evaluate sources critically |
+| 💰 | [Financial Literacy for Kids](https://github.com/literacy-for-kids/financial_literacy_for_kids) | [🌐 Site](https://financial.literacy-for-kids.com/) | How money works and how financial decisions shape the future |
+| 🏛️ | [Civic Literacy for Kids](https://github.com/literacy-for-kids/civic_literacy_for_kids) | [🌐 Site](https://civic.literacy-for-kids.com/) | How societies organize and how citizens shape communities |
+| 🧩 | [Emotional & Social Literacy for Kids](https://github.com/literacy-for-kids/emotional_and_social_literacy_for_kids) | [🌐 Site](https://emotional.literacy-for-kids.com/) | Emotions as data, social systems as networks |
+| ⚖️ | [Legal Literacy for Kids](https://github.com/literacy-for-kids/legal_literacy_for_kids) | [🌐 Site](https://legal.literacy-for-kids.com/) | Rules, contracts, and how legal systems actually work |
+| 🌍 | [Environmental Systems Literacy for Kids](https://github.com/literacy-for-kids/Environmental_system_literacy_for_kids) | [🌐 Site](https://environmental.literacy-for-kids.com/) | Earth systems and where human infrastructure fits into them |
+| 🩺 | [Health Systems Literacy for Kids](https://github.com/literacy-for-kids/health_literacy_for_kids) | [🌐 Site](https://health.literacy-for-kids.com/) | The human body as a biological system worth understanding |
 
 ---
 
 ## 🌐 Hub Site
 
-The **[Literacy for Kids hub](https://literacy-for-kids.com)** is the starting point for the whole project. Use it to compare curricula, understand how they connect, and find the right one for your learners.
+The **[Literacy for Kids hub](https://www.literacy-for-kids.com/)** is the starting point for the whole project. Use it to compare curricula, understand how they connect, and find the right one for your learners.
 
 ---
 
