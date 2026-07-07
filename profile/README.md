@@ -6,9 +6,13 @@ The project teaches foundational literacies that help children understand the sy
 
 Each curriculum is built around a systems-thinking philosophy: rather than handing children a list of rules, we give them mental models for how things actually work. The goal is not to provide answers, but to build the habit of asking better questions.
 
+🌐 **New here? Start at [www.literacy-for-kids.com](https://www.literacy-for-kids.com/)** — the [Start Here guide](https://www.literacy-for-kids.com/docs/start-here/) gets a parent or facilitator from "what is this?" to running a first lesson in about 90 seconds, with dedicated pages [for parents](https://www.literacy-for-kids.com/docs/start-here/parents/) and [for teachers and facilitators](https://www.literacy-for-kids.com/docs/start-here/facilitators/).
+
 ---
 
 ## 🎯 What We Teach
+
+**Nine domain literacies** — the systems kids should understand:
 
 - 🧠 **Decision Literacy** — how to think clearly, evaluate choices, and understand consequences
 - 💻 **Computer Literacy** — how computers and digital systems work
@@ -20,11 +24,17 @@ Each curriculum is built around a systems-thinking philosophy: rather than handi
 - 🌍 **Environmental Systems Literacy** — how planetary systems work and where human systems intersect
 - 🩺 **Health Systems Literacy** — how the human body maintains itself and what disrupts it
 
+**Seven [Shared Toolkits](https://www.literacy-for-kids.com/docs/toolkits/)** — the skills that help kids use that understanding in real life:
+
+🧰 Coping Skills · 💬 Communication · 🛠️ Problem Solving · 📚 Learning How to Learn · 🗂️ Executive Function · 🤝 Collaboration · 🗃️ Information Organization
+
+Each toolkit is eight short lessons plus [printable cards](https://www.literacy-for-kids.com/docs/toolkits/printables/), woven into every curriculum through local pages and in-lesson callouts.
+
 ---
 
 ## 📖 Curricula
 
-Each curriculum is discussion-driven and designed for parents, educators, and homeschool families. Lessons take **10–20 minutes** and integrate easily into classrooms, homeschool environments, or after-school programs.
+Each curriculum is discussion-driven and designed for parents, educators, and homeschool families. Lessons take **10–20 minutes**, work standalone, and integrate easily into classrooms, homeschool environments, or after-school programs.
 
 | | Curriculum | Live Site | Description |
 |---|---|---|---|
@@ -42,7 +52,12 @@ Each curriculum is discussion-driven and designed for parents, educators, and ho
 
 ## 🌐 Hub Site
 
-The **[Literacy for Kids hub](https://www.literacy-for-kids.com/)** is the starting point for the whole project. Use it to compare curricula, understand how they connect, and find the right one for your learners.
+The **[Literacy for Kids hub](https://www.literacy-for-kids.com/)** is the starting point for the whole project. Use it to:
+
+- get oriented with the **[Start Here guides](https://www.literacy-for-kids.com/docs/start-here/)**
+- **[choose a literacy](https://www.literacy-for-kids.com/docs/start-here/choose-a-literacy/)** by a child's question or friction point
+- browse the **[Shared Toolkits](https://www.literacy-for-kids.com/docs/toolkits/)** and their **[printable cards](https://www.literacy-for-kids.com/docs/toolkits/printables/)**
+- understand how the nine literacies connect
 
 ---
 
@@ -57,30 +72,7 @@ Every curriculum shares the same design principles:
 - **Systems-oriented** — each topic is taught as a system to understand, not a set of rules to follow
 - **No expertise required** — designed for parents and educators, not subject-matter specialists
 - **Age-appropriate for 8–12** — calibrated for upper-elementary learners without oversimplifying
-
----
-
-## 🏗️ Project Structure
-
-Each curriculum lives in its own repository with a self-contained Docusaurus site deployed to GitHub Pages. A shared theme package keeps visual identity and cross-site navigation consistent across all nine sites.
-literacy-for-kids/
-├── literacy_for_kids/          # Hub site + org README
-├── computer_literacy_for_kids/
-├── decision_literacy_for_kids/
-├── media_literacy_for_kids/
-├── financial_literacy_for_kids/
-├── civic_literacy_for_kids/
-├── emotional_and_social_literacy_for_kids/
-├── legal_literacy_for_kids/
-├── Environmental_system_literacy_for_kids/
-└── health_literacy_for_kids/
-
-Each repo follows the same structure:
-website/
-├── docs/         # All curriculum content (Markdown)
-├── src/pages/    # Landing page
-├── static/img/   # Images and logos
-└── docusaurus.config.js
+- **Safe and low-pressure** — fictional examples are always allowed, personal disclosure is never required, and serious concerns belong with trusted adults and professionals
 
 ---
 
@@ -90,13 +82,9 @@ All curricula are **free to use, open source, and adaptable**.
 
 **To use:** Open any curriculum site and start teaching. No signup or download required.
 
-**To contribute:**
-1. Fork the repo for the curriculum you want to improve
-2. Create a branch
-3. Edit the Markdown files in `website/docs/`
-4. Submit a pull request
+**To contribute:** Fork the repo for the curriculum you want to improve, edit the Markdown files in `website/docs/`, and submit a pull request. Every lesson page on the live sites has an "Edit this page" link that takes you directly to the file on GitHub.
 
-We welcome typo fixes, improved explanations, better examples, new activities, and translations. Each repo has an "Edit this page" link on every lesson that takes you directly to the file on GitHub.
+We welcome typo fixes, improved explanations, better examples, new activities, and translations.
 
 ---
 
