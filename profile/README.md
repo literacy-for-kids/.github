@@ -6,7 +6,7 @@ The project teaches foundational literacies that help children understand the sy
 
 Each curriculum is built around a systems-thinking philosophy: rather than handing children a list of rules, we give them mental models for how things actually work. The goal is not to provide answers, but to build the habit of asking better questions.
 
-🌐 **New here? Start at [www.literacy-for-kids.com](https://www.literacy-for-kids.com/)** — the [Start Here guide](https://www.literacy-for-kids.com/docs/start-here/) gets a parent or facilitator from "what is this?" to running a first lesson in about 90 seconds, with dedicated pages [for parents](https://www.literacy-for-kids.com/docs/start-here/parents/) and [for teachers and facilitators](https://www.literacy-for-kids.com/docs/start-here/facilitators/).
+🌐 **New here? Start at [www.literacy-for-kids.com](https://www.literacy-for-kids.com/)** — the [Start Here guide](https://www.literacy-for-kids.com/docs/start-here/) helps a parent or facilitator choose a first activity and check what it needs, with dedicated pages [for parents](https://www.literacy-for-kids.com/docs/start-here/parents/) and [for teachers and facilitators](https://www.literacy-for-kids.com/docs/start-here/facilitators/).
 
 ---
 
@@ -34,7 +34,7 @@ Each toolkit is eight short lessons plus [printable cards](https://www.literacy-
 
 ## 📖 Curricula
 
-Each curriculum is discussion-driven and designed for parents, educators, and homeschool families. Lessons take **10–20 minutes**, work standalone, and integrate easily into classrooms, homeschool environments, or after-school programs.
+Each curriculum is discussion-driven and designed for parents, educators, and homeschool families. A selected discussion or activity can fit **10–20 minutes**; a complete weekly module usually takes several sessions. Check the week’s prior concepts, materials, tools, and preparation notes before teaching or using it out of sequence. See [pacing and preparation](https://www.literacy-for-kids.com/docs/using-the-curricula/#pacing-and-preparation) for planning examples across classrooms, homeschool environments, and after-school programs.
 
 | | Curriculum | Live Site | Description |
 |---|---|---|---|
@@ -67,7 +67,7 @@ We focus on **foundational literacies** rather than traditional academic subject
 
 Every curriculum shares the same design principles:
 
-- **Short and modular** — lessons take 10–20 minutes and work independently
+- **Flexible and modular** — select a short discussion or activity, or schedule several sessions for a full weekly module; check prerequisites and preparation
 - **Discussion over memorization** — built around questions and conversation, not quizzes
 - **Systems-oriented** — each topic is taught as a system to understand, not a set of rules to follow
 - **No expertise required** — designed for parents and educators, not subject-matter specialists
@@ -80,7 +80,7 @@ Every curriculum shares the same design principles:
 
 All curricula are **free to use, open source, and adaptable**.
 
-**To use:** Open any curriculum site and start teaching. No signup or download required.
+**To use:** Open a curriculum site, choose an activity, and review its preparation notes. Reading the curriculum requires no signup; external tools may have separate access requirements, and offline activities may need downloaded or printed materials.
 
 **To contribute:** Fork the repo for the curriculum you want to improve, edit the Markdown files in `website/docs/`, and submit a pull request. Every lesson page on the live sites has an "Edit this page" link that takes you directly to the file on GitHub.
 
